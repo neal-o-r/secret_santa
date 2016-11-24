@@ -1,4 +1,4 @@
 # Secret Santa
 
-Super secret festive cheer
+Reliably secret festive cheer
 
